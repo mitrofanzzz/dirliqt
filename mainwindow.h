@@ -8,6 +8,8 @@
 #include <QDir>
 #include <QString>
 #include <QList>
+#include <QTableWidgetItem>
+#include <QFont>
 
 namespace Ui {
 class MainWindow;

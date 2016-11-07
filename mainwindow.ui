@@ -38,10 +38,10 @@
      </property>
      <widget class="QLabel" name="label">
       <property name="text">
-       <string>TextLabel</string>
+       <string>C:TEMP</string>
       </property>
      </widget>
-     <widget class="QListWidget" name="listWidget"/>
+     <widget class="QTableWidget" name="tableWidget"/>
     </widget>
     <widget class="QSplitter" name="splitter_2">
      <property name="orientation">
