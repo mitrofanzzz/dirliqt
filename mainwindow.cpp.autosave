@@ -86,6 +86,8 @@ QFileInfoList GetListFromDir(QDir t_d_path) {
     return result_FileList;
 }
 
+
+
 void MainWindow::on_pushButton_4_clicked()
 {
     ui->progressBar->show();
